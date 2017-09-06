@@ -1,6 +1,7 @@
 {
   "user" : {
       "first_name": "Jim",
-      "last_name": "Gordern"
+      "last_name": "Gordern",
+      "email": "example@example.com"
   }
 }
