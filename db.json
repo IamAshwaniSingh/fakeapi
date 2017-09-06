@@ -1,4 +1,6 @@
 {
-  "first_name": "Jim",
-  "last_name": "Gordon"
+  "user" : {
+      "first_name": "Jim",
+      "last_name": "Gordern"
+  }
 }
