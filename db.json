@@ -1,4 +1,5 @@
 {
+    "accounts: {
     "next_offset": -1,
     "records": [
         {
@@ -41,4 +42,5 @@
             "_module": "Accounts"
         }
     ]
+}
 }
