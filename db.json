@@ -8,11 +8,11 @@
     "accounts":[
         {
             "id": "1",
-            "name": "this is test account ashwani",
+            "name": "this is test account ashwani"
         },
         {
             "id": "2",
-            "name": "this is test account ashwani2",
+            "name": "this is test account ashwani2"
         }  
     ]
 }
