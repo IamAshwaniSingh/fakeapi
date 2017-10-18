@@ -7,19 +7,12 @@
     ],
     "accounts":[
         {
-            "id": "9ed3dbf8-af39-11e7-b11e-8cc701d744e8",
+            "id": "1",
             "name": "this is test account ashwani",
-            "date_entered": "2017-10-12T05:39:24-05:00",
-            "date_modified": "2017-10-12T05:39:24-05:00",
-            "created_by": "1",
-            "billing_address_city": "",
-            "billing_address_country": "",
-            "following": true,
-            "my_favorite": false,
-            "locked_fields": [],
-            "gold_account_id": null,
-            "org_cd": 121112,
-            "siebel_account_id": ""
+        },
+        {
+            "id": "2",
+            "name": "this is test account ashwani2",
         }  
     ]
 }
