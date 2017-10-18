@@ -1,8 +1,14 @@
 {
-    "user" :[
-        { "id": 1, "first_name": "Jon", "last_name": "Snow" },
-        { "id": 2, "first_name": "Daenerys", "last_name": "Targaryen" },
-        { "id": 3, "first_name": "Tyrion", "last_name": "Lannister" },
-        { "id": 4, "first_name": "Jaime", "last_name": "Lannister" }
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
