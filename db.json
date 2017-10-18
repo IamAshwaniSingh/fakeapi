@@ -52,7 +52,7 @@
         },
     "mcp": [
         {
-            "mcp_id": "1234561"
+            "mcp_id": "1234561",
             "name": "MCP1",
             "status" : "In Progress",
             "last_updated" : "2017-10-10",
@@ -60,7 +60,7 @@
             "priority": "1"
         },
         {
-            "mcp_id": "1234562"
+            "mcp_id": "1234562",
             "name": "MCP2",
             "status" : "In Progress",
             "last_updated" : "2017-11-10",
@@ -68,7 +68,7 @@
             "priority": "2"
         },
         {
-            "mcp_id": "1234563"
+            "mcp_id": "1234563",
             "name": "MCP3",
             "status" : "In Progress",
             "last_updated" : "2017-12-10",
