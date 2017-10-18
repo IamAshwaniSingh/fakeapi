@@ -5,51 +5,47 @@
         { "id": 3, "first_name": "Tyrion", "last_name": "Lannister" },
         { "id": 4, "first_name": "Jaime", "last_name": "Lannister" }
     ],
-    "accounts": 
-         {
-            "next_offset": -1,
-            "records": [
-                {
-                    "id": "9ed3dbf8-af39-11e7-b11e-8cc701d744e8",
-                    "name": "this is test account ashwani",
-                    "date_entered": "2017-10-12T05:39:24-05:00",
-                    "date_modified": "2017-10-12T05:39:24-05:00",
-                    "created_by": "1",
-                    "billing_address_city": "",
-                    "billing_address_country": "",
-                    "following": true,
-                    "my_favorite": false,
-                    "locked_fields": [],
-                    "assigned_user_id": "1",
-                    "assigned_user_name": "Ashwani Administrator",
-                    "assigned_user_link": {
-                        "full_name": "Ashwani Administrator",
-                        "id": "1",
-                        "_acl": {
-                            "fields": {
-                                "pwd_last_changed": {
-                                    "write": "no",
-                                    "create": "no"
-                                },
-                                "last_login": {
-                                    "write": "no",
-                                    "create": "no"
-                                }
-                            },
-                            "delete": "no",
-                            "_hash": "08b99a97c2e8d792f7a44d8882b5af6d"
+    "accounts":[
+        {
+            "id": "9ed3dbf8-af39-11e7-b11e-8cc701d744e8",
+            "name": "this is test account ashwani",
+            "date_entered": "2017-10-12T05:39:24-05:00",
+            "date_modified": "2017-10-12T05:39:24-05:00",
+            "created_by": "1",
+            "billing_address_city": "",
+            "billing_address_country": "",
+            "following": true,
+            "my_favorite": false,
+            "locked_fields": [],
+            "assigned_user_id": "1",
+            "assigned_user_name": "Ashwani Administrator",
+            "assigned_user_link": {
+                "full_name": "Ashwani Administrator",
+                "id": "1",
+                "_acl": {
+                    "fields": {
+                        "pwd_last_changed": {
+                            "write": "no",
+                            "create": "no"
+                        },
+                        "last_login": {
+                            "write": "no",
+                            "create": "no"
                         }
                     },
-                    "gold_account_id": null,
-                    "org_cd": 121112,
-                    "siebel_account_id": "",
-                    "_acl": {
-                        "fields": []
-                    },
-                    "_module": "Accounts"
+                    "delete": "no",
+                    "_hash": "08b99a97c2e8d792f7a44d8882b5af6d"
                 }
-            ]
-        },
+            },
+            "gold_account_id": null,
+            "org_cd": 121112,
+            "siebel_account_id": "",
+            "_acl": {
+                "fields": []
+            },
+            "_module": "Accounts"
+        }  
+    ],
     "mcp": [
         {
             "mcp_id": "1234561",
